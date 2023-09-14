@@ -1,5 +1,5 @@
-# Created by Siddharth Dushantha
-# https://github.com/sdushantha/recycle-bin-themes
+# Created by Anshul Choushary
+# https://github.com/AnshulChoudhary001/recycle-bin-themes-main
 #
 
 $version = "v1.0.1"
@@ -14,7 +14,7 @@ Write-Host @"
  | _ \___ __ _  _ __| |___  | _ |_)_ _   |_   _| |_  ___ _ __  ___ ___
  |   / -_) _| || / _| / -_) | _ \ | ' \    | | | ' \/ -_) '  \/ -_|_-<
  |_|_\___\__|\_, \__|_\___| |___/_|_||_|   |_| |_||_\___|_|_|_\___/__/
-             |__/ $version by Siddharth Dushantha
+             |__/
 
 "@
 
